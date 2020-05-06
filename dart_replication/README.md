@@ -1,4 +1,4 @@
-#This folder includes a R script and R data files for DART replication for manuscript CMPS-19-0088.R1 entitled "Diplomatic Documents Data for International Relations: The Computational and Historical Resources on Nations and Organizations for the Social Sciences Database".
+This folder includes a R script and R data files for DART replication for "Diplomatic Documents Data for International Relations: The Freedom of Information Archivce (FOIArchive) Database".
 
 1. [File "dart_replication.R"](dart_replication.R) is the R script. This code was written and ran on/with:
 - R version 3.5.2 (2018-12-20)
